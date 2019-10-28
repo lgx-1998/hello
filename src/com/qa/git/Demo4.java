@@ -1,6 +1,6 @@
 package com.qa.git;
 
-public class Demo3 {
+public class Demo4 {
 
 	public static void main(String[] args) {
 		System.out.println("Hello!How are you?");
